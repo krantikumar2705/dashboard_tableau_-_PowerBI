@@ -1,5 +1,5 @@
 # Netflix Movies and TV Shows- Dashboard Using Tableau
-👇Touch And See Dashboard
+👇Hit And See Dashboard
 https://public.tableau.com/shared/7JH2J835W?:display_count=n&:origin=viz_share_link
 
 
