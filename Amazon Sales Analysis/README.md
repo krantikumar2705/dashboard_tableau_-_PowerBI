@@ -1,4 +1,6 @@
 # Sales Report Analysis and Recommendations
+##### For dashboard click below
+https://public.tableau.com/views/AmazonSalesDashboard_17211413288410/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Key Insights
 
